@@ -3,7 +3,7 @@
 
 # Passos para se criar uma consulta com Graphql
     * Comando para gerar o arquivo package.json mpn ou yarn init -y
-    * Comando parar instalar o nodemon npm i -D nodemon]
+    * Comando parar instalar o nodemon npm i -D nodemon
     * Comando para instalar o Graphql npm i graphql apollo-server
 ***
 # Comando para instalar o nodemon [npm i -D nodemon]
