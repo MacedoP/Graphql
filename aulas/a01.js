@@ -3,7 +3,7 @@ const {gql, ApolloServer} = require("apollo-server");
 const resolvers = {
     Query:{
         hello(){
-            return 'Estou começando a aprender Graphql';
+            return 'World';
         }
     }
 
