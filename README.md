@@ -1,5 +1,5 @@
 # Graphql
- Estou a começar de Graphql
+ Estou começar a estudar Graphql
 
 # Passos para se criar uma consulta com Graphql
     * Comando para gerar o arquivo package.json mpn ou yarn init -y
