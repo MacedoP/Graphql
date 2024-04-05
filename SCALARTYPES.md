@@ -1,6 +1,6 @@
 # Nesta segunda aula vamos falar dos tipos escalares do Graphql
 
-## Os tipos escaalres sao:
+## Os tipos escalares sao:
     * Int
     * Float
     * String
@@ -11,11 +11,14 @@
 
 # const typeDefs = gql``
 
-    * Aqui, estamos definindo nossos tipos GraphQL usando a função gql que importamos anteriormente. No entanto, neste exemplo, não estamos definindo nenhum tipo. Essa definição de tipo será preenchida posteriormente com os tipos GraphQL reais do nosso esquema.
+    * Aqui, estamos definindo nossos tipos GraphQL usando a função gql que importamos anteriormente. 
+    No entanto, neste exemplo, não estamos definindo nenhum tipo. Essa definição de tipo será preenchida 
+    posteriormente com os tipos GraphQL reais do nosso esquema.
 
 # const resolvers = {}
 
-    * Estamos definindo um objeto vazio chamado resolvers. Os resolvers são responsáveis por fornecer a funcionalidade para cada campo nos tipos definidos em typeDefs. Neste exemplo, não estamos definindo nenhum resolver ainda.
+    * Estamos definindo um objeto vazio chamado resolvers. Os resolvers são responsáveis por 
+    fornecer a funcionalidade para cada campo nos tipos definidos em typeDefs. Neste exemplo, não estamos definindo nenhum resolver ainda.
 
 ***
 
