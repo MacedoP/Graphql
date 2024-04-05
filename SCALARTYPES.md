@@ -18,7 +18,8 @@
 # const resolvers = {}
 
     * Estamos definindo um objeto vazio chamado resolvers. Os resolvers são responsáveis por 
-    fornecer a funcionalidade para cada campo nos tipos definidos em typeDefs. Neste exemplo, não estamos definindo nenhum resolver ainda.
+    fornecer a funcionalidade para cada campo nos tipos definidos em typeDefs. Neste exemplo, 
+    não estamos definindo nenhum resolver ainda.
 
 ***
 
