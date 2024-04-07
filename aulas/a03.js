@@ -8,7 +8,7 @@ const typeDefs = gql`
         sexo: String
         activo: Boolean
         id: ID
-        cursos: [String]! #este ponto de esclamacao, vai evitar que mostremos o valor null
+        cursos: [String]! #este ponto de esclamacao, vai evitar que mostremos o valor null nosso playground
 
 
     }
